@@ -1,0 +1,22 @@
+# Ollama stuff
+modelfile_cache/
+models/
+.blobs/
+.cache/
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.log
+
+# Python / future web UI (if you ever add one)
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
