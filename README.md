@@ -1,6 +1,6 @@
 # Victor the Library Assistant
 
-Victor is a 100% local, Ollama-powered LLM that was created by Ms. Kristie Feguer, a librarian.  
+Victor is a 100% local, Ollama-powered LLM that was created by Ms. Kristie Feguer(me!), a librarian.  
 No cloud, no OpenAI/Claude/Gemini/xAI, no internet required after setup. Roleplay bot - but ideally could edit to add library collection data and make functional.
 
 - Runs on Llama 3.2 3B (or 1B) at temperature 0.1
