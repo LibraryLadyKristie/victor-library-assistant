@@ -1,6 +1,6 @@
 # Victor - Library AI
 
-Victor is a 100% local, Ollama-powered LLM that was created by Ms. Kristie Feguer(me!), a librarian.  
+Victor is a 100% local, Ollama-powered LLM prompt that was created by Ms. Kristie Feguer(me!), a librarian.  
 No cloud, no OpenAI/Claude/Gemini/xAI, no internet required after setup. Intended to help find items and answer general questions while prioritizing patron rights and privacy - ideally could edit to add library collection data and make functional? Work in progress..
 
 - Runs on Llama 3.2 3B (or 1B) at temperature 0.1
