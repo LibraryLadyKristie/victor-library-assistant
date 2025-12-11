@@ -1,4 +1,4 @@
-# Victor - Library AI
+# Victor - Library AI Prompt
 
 Victor is a 100% local, Ollama-powered LLM prompt that was created by Ms. Kristie Feguer(me!), a librarian.  
 No cloud, no OpenAI/Claude/Gemini/xAI, no internet required after setup. Intended to help find items and answer general questions while prioritizing patron rights and privacy - Adding collection is a work in progress..
