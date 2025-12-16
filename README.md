@@ -1,11 +1,11 @@
-# Victor - Library AI Prompt
+# Victor - Library AI 
 
-Victor is a 100% local, Ollama-powered LLM prompt that was created by Ms. Kristie Feguer(me!), a librarian.  
-No cloud, no OpenAI/Claude/Gemini/xAI, no internet required after setup. Intended to help find items and answer general questions while prioritizing patron rights and privacy - Adding collection is a work in progress..
+Victor is Ollama model (prompt) that was set up to be your library's circulation assistant. It was set up by Ms. Kristie Feguer(me!), a librarian.  
+No cloud, no OpenAI/Claude/Gemini/xAI, no internet required after setup. Intended to help find items and answer general questions while prioritizing patron curiosity and privacy. Collection added using csv. Takes 5 minutes to load "brain" around 20,000 items. 
 
-- Run on Llama 3.2 3B (or 1B) at temperature 0.1
+- Run on Llama 3.2 3B (or 1B) 
 - Greets patrons on startup
-- Family-Friendly
+- Uses RAG to pull your library's catalog information
 
 Perfect for small libraries that want a local, private AI that is secure and answers questions in public setting.
 
